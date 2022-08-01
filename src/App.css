@@ -1,0 +1,38 @@
+.App {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #ccc;
+}
+
+h1{
+  color: brown;
+  margin-bottom: 5px;
+}
+
+.posts{
+  border: 1px solid #666;
+  margin-bottom: 15px;
+  border-radius: 6px;
+  padding: 2%;
+}
+
+
+
+.posts span{
+ 
+  color:gold;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.posts h3{
+  color: blue;
+  margin-bottom: 5px;
+}
+
+.posts p{
+  text-align: justify;
+}
